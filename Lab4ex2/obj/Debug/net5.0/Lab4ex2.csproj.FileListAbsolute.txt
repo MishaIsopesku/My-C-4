@@ -1,0 +1,80 @@
+C:\Users\D0BR0D1Y\source\repos\Lab4ex2\Lab4ex2\bin\Debug\net5.0\Lab4ex2.exe
+C:\Users\D0BR0D1Y\source\repos\Lab4ex2\Lab4ex2\bin\Debug\net5.0\Lab4ex2.deps.json
+C:\Users\D0BR0D1Y\source\repos\Lab4ex2\Lab4ex2\bin\Debug\net5.0\Lab4ex2.runtimeconfig.json
+C:\Users\D0BR0D1Y\source\repos\Lab4ex2\Lab4ex2\bin\Debug\net5.0\Lab4ex2.runtimeconfig.dev.json
+C:\Users\D0BR0D1Y\source\repos\Lab4ex2\Lab4ex2\bin\Debug\net5.0\Lab4ex2.dll
+C:\Users\D0BR0D1Y\source\repos\Lab4ex2\Lab4ex2\bin\Debug\net5.0\ref\Lab4ex2.dll
+C:\Users\D0BR0D1Y\source\repos\Lab4ex2\Lab4ex2\bin\Debug\net5.0\Lab4ex2.pdb
+C:\Users\D0BR0D1Y\source\repos\Lab4ex2\Lab4ex2\obj\Debug\net5.0\Lab4ex2.csproj.AssemblyReference.cache
+C:\Users\D0BR0D1Y\source\repos\Lab4ex2\Lab4ex2\obj\Debug\net5.0\Lab4ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D0BR0D1Y\source\repos\Lab4ex2\Lab4ex2\obj\Debug\net5.0\Lab4ex2.AssemblyInfoInputs.cache
+C:\Users\D0BR0D1Y\source\repos\Lab4ex2\Lab4ex2\obj\Debug\net5.0\Lab4ex2.AssemblyInfo.cs
+C:\Users\D0BR0D1Y\source\repos\Lab4ex2\Lab4ex2\obj\Debug\net5.0\Lab4ex2.csproj.CoreCompileInputs.cache
+C:\Users\D0BR0D1Y\source\repos\Lab4ex2\Lab4ex2\obj\Debug\net5.0\Lab4ex2.dll
+C:\Users\D0BR0D1Y\source\repos\Lab4ex2\Lab4ex2\obj\Debug\net5.0\ref\Lab4ex2.dll
+C:\Users\D0BR0D1Y\source\repos\Lab4ex2\Lab4ex2\obj\Debug\net5.0\Lab4ex2.pdb
+C:\Users\D0BR0D1Y\source\repos\Lab4ex2\Lab4ex2\obj\Debug\net5.0\Lab4ex2.genruntimeconfig.cache
+C:\Users\GR\OneDrive\Робочий стіл\C--Lab4ex2\Lab4ex2\bin\Debug\net5.0\Lab4ex2.exe
+C:\Users\GR\OneDrive\Робочий стіл\C--Lab4ex2\Lab4ex2\bin\Debug\net5.0\Lab4ex2.deps.json
+C:\Users\GR\OneDrive\Робочий стіл\C--Lab4ex2\Lab4ex2\bin\Debug\net5.0\Lab4ex2.runtimeconfig.json
+C:\Users\GR\OneDrive\Робочий стіл\C--Lab4ex2\Lab4ex2\bin\Debug\net5.0\Lab4ex2.runtimeconfig.dev.json
+C:\Users\GR\OneDrive\Робочий стіл\C--Lab4ex2\Lab4ex2\bin\Debug\net5.0\Lab4ex2.dll
+C:\Users\GR\OneDrive\Робочий стіл\C--Lab4ex2\Lab4ex2\bin\Debug\net5.0\Lab4ex2.pdb
+C:\Users\GR\OneDrive\Робочий стіл\C--Lab4ex2\Lab4ex2\obj\Debug\net5.0\Lab4ex2.csproj.AssemblyReference.cache
+C:\Users\GR\OneDrive\Робочий стіл\C--Lab4ex2\Lab4ex2\obj\Debug\net5.0\Lab4ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GR\OneDrive\Робочий стіл\C--Lab4ex2\Lab4ex2\obj\Debug\net5.0\Lab4ex2.AssemblyInfoInputs.cache
+C:\Users\GR\OneDrive\Робочий стіл\C--Lab4ex2\Lab4ex2\obj\Debug\net5.0\Lab4ex2.AssemblyInfo.cs
+C:\Users\GR\OneDrive\Робочий стіл\C--Lab4ex2\Lab4ex2\obj\Debug\net5.0\Lab4ex2.csproj.CoreCompileInputs.cache
+C:\Users\GR\OneDrive\Робочий стіл\C--Lab4ex2\Lab4ex2\obj\Debug\net5.0\Lab4ex2.dll
+C:\Users\GR\OneDrive\Робочий стіл\C--Lab4ex2\Lab4ex2\obj\Debug\net5.0\refint\Lab4ex2.dll
+C:\Users\GR\OneDrive\Робочий стіл\C--Lab4ex2\Lab4ex2\obj\Debug\net5.0\Lab4ex2.pdb
+C:\Users\GR\OneDrive\Робочий стіл\C--Lab4ex2\Lab4ex2\obj\Debug\net5.0\Lab4ex2.genruntimeconfig.cache
+C:\Users\GR\OneDrive\Робочий стіл\C--Lab4ex2\Lab4ex2\obj\Debug\net5.0\ref\Lab4ex2.dll
+C:\Users\Михайло\Desktop\C--Lab4ex23\Lab4ex2\bin\Debug\net5.0\Lab4ex2.exe
+C:\Users\Михайло\Desktop\C--Lab4ex23\Lab4ex2\bin\Debug\net5.0\Lab4ex2.deps.json
+C:\Users\Михайло\Desktop\C--Lab4ex23\Lab4ex2\bin\Debug\net5.0\Lab4ex2.runtimeconfig.json
+C:\Users\Михайло\Desktop\C--Lab4ex23\Lab4ex2\bin\Debug\net5.0\Lab4ex2.runtimeconfig.dev.json
+C:\Users\Михайло\Desktop\C--Lab4ex23\Lab4ex2\bin\Debug\net5.0\Lab4ex2.dll
+C:\Users\Михайло\Desktop\C--Lab4ex23\Lab4ex2\bin\Debug\net5.0\Lab4ex2.pdb
+C:\Users\Михайло\Desktop\C--Lab4ex23\Lab4ex2\obj\Debug\net5.0\Lab4ex2.csproj.AssemblyReference.cache
+C:\Users\Михайло\Desktop\C--Lab4ex23\Lab4ex2\obj\Debug\net5.0\Lab4ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михайло\Desktop\C--Lab4ex23\Lab4ex2\obj\Debug\net5.0\Lab4ex2.AssemblyInfoInputs.cache
+C:\Users\Михайло\Desktop\C--Lab4ex23\Lab4ex2\obj\Debug\net5.0\Lab4ex2.AssemblyInfo.cs
+C:\Users\Михайло\Desktop\C--Lab4ex23\Lab4ex2\obj\Debug\net5.0\Lab4ex2.csproj.CoreCompileInputs.cache
+C:\Users\Михайло\Desktop\C--Lab4ex23\Lab4ex2\obj\Debug\net5.0\Lab4ex2.dll
+C:\Users\Михайло\Desktop\C--Lab4ex23\Lab4ex2\obj\Debug\net5.0\refint\Lab4ex2.dll
+C:\Users\Михайло\Desktop\C--Lab4ex23\Lab4ex2\obj\Debug\net5.0\Lab4ex2.pdb
+C:\Users\Михайло\Desktop\C--Lab4ex23\Lab4ex2\obj\Debug\net5.0\Lab4ex2.genruntimeconfig.cache
+C:\Users\Михайло\Desktop\C--Lab4ex23\Lab4ex2\obj\Debug\net5.0\ref\Lab4ex2.dll
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия\Lab4ex2\bin\Debug\net5.0\Lab4ex2.exe
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия\Lab4ex2\bin\Debug\net5.0\Lab4ex2.deps.json
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия\Lab4ex2\bin\Debug\net5.0\Lab4ex2.runtimeconfig.json
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия\Lab4ex2\bin\Debug\net5.0\Lab4ex2.runtimeconfig.dev.json
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия\Lab4ex2\bin\Debug\net5.0\Lab4ex2.dll
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия\Lab4ex2\bin\Debug\net5.0\Lab4ex2.pdb
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия\Lab4ex2\obj\Debug\net5.0\Lab4ex2.csproj.AssemblyReference.cache
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия\Lab4ex2\obj\Debug\net5.0\Lab4ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия\Lab4ex2\obj\Debug\net5.0\Lab4ex2.AssemblyInfoInputs.cache
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия\Lab4ex2\obj\Debug\net5.0\Lab4ex2.AssemblyInfo.cs
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия\Lab4ex2\obj\Debug\net5.0\Lab4ex2.csproj.CoreCompileInputs.cache
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия\Lab4ex2\obj\Debug\net5.0\Lab4ex2.dll
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия\Lab4ex2\obj\Debug\net5.0\refint\Lab4ex2.dll
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия\Lab4ex2\obj\Debug\net5.0\Lab4ex2.pdb
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия\Lab4ex2\obj\Debug\net5.0\Lab4ex2.genruntimeconfig.cache
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия\Lab4ex2\obj\Debug\net5.0\ref\Lab4ex2.dll
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия — копия\Lab4ex2\bin\Debug\net5.0\Lab4ex2.exe
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия — копия\Lab4ex2\bin\Debug\net5.0\Lab4ex2.deps.json
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия — копия\Lab4ex2\bin\Debug\net5.0\Lab4ex2.runtimeconfig.json
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия — копия\Lab4ex2\bin\Debug\net5.0\Lab4ex2.runtimeconfig.dev.json
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия — копия\Lab4ex2\bin\Debug\net5.0\Lab4ex2.dll
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия — копия\Lab4ex2\bin\Debug\net5.0\Lab4ex2.pdb
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия — копия\Lab4ex2\obj\Debug\net5.0\Lab4ex2.csproj.AssemblyReference.cache
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия — копия\Lab4ex2\obj\Debug\net5.0\Lab4ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия — копия\Lab4ex2\obj\Debug\net5.0\Lab4ex2.AssemblyInfoInputs.cache
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия — копия\Lab4ex2\obj\Debug\net5.0\Lab4ex2.AssemblyInfo.cs
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия — копия\Lab4ex2\obj\Debug\net5.0\Lab4ex2.csproj.CoreCompileInputs.cache
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия — копия\Lab4ex2\obj\Debug\net5.0\Lab4ex2.dll
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия — копия\Lab4ex2\obj\Debug\net5.0\refint\Lab4ex2.dll
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия — копия\Lab4ex2\obj\Debug\net5.0\Lab4ex2.pdb
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия — копия\Lab4ex2\obj\Debug\net5.0\Lab4ex2.genruntimeconfig.cache
+C:\Users\Михайло\Desktop\C--Lab4ex23 — копия — копия\Lab4ex2\obj\Debug\net5.0\ref\Lab4ex2.dll
